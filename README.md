@@ -1,5 +1,8 @@
 # microblog - [akshith.io](https://akshith.io)
 
+♻️ archived in favor of [adot](https://github.com/akshithio/adot)
+
+***
 🔨: You can run it by simply cloning, running `cargo build` followed by `cargo run -- "content to microblog"`. Built in Rust.
 ***
 
